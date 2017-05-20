@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list     
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/waveanim"
+    android:oneshot="false"
+    >
+    <item android:drawable="@drawable/furball_training_1" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_2" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_3" android:duration="140" />    
+    <item android:drawable="@drawable/furball_training_4" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_5" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_6" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_7" android:duration="140" />    
+    <item android:drawable="@drawable/furball_training_8" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_9" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_10" android:duration="140" />
+    <item android:drawable="@drawable/furball_training_11" android:duration="140" />     
+</animation-list> 

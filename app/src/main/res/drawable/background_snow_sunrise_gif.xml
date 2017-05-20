@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list     
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/waveanim"
+    android:oneshot="true"
+    > 
+    <item android:drawable="@drawable/background_snow_sunset_8" android:duration="200" />
+    <item android:drawable="@drawable/background_snow_sunset_7" android:duration="200" />    
+    <item android:drawable="@drawable/background_snow_sunset_6" android:duration="200" />
+    <item android:drawable="@drawable/background_snow_sunset_5" android:duration="200" />
+    <item android:drawable="@drawable/background_snow_sunset_4" android:duration="200" />   
+    <item android:drawable="@drawable/background_snow_sunset_3" android:duration="200" />
+    <item android:drawable="@drawable/background_snow_sunset_2" android:duration="200" />
+    <item android:drawable="@drawable/background_snow_sunset_1" android:duration="200" /> 
+</animation-list> 

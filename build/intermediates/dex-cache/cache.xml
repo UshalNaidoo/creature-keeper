@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ushal/StudioProjects/CreatureKeeper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a5d43badd4c51f295101807e03c1a499fb632b4">
+        <dex dex="/Users/ushal/StudioProjects/CreatureKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9603f1a96b761b16d4839309cb4e0e3deb6e060a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ushal/StudioProjects/CreatureKeeper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ushal/StudioProjects/CreatureKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a6f27086f280a3ef9704a544fb2b022f0133dd2/classes.dex" />
+    </item>
+
+</items>

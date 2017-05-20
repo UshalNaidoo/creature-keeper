@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list     
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/waveanim"
+    android:oneshot="true"
+    >
+    <item android:drawable="@drawable/furball_washing_1" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_2" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_3" android:duration="200" />    
+    <item android:drawable="@drawable/furball_washing_1" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_4" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_5" android:duration="200" />    
+    <item android:drawable="@drawable/furball_washing_6" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_7" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_8" android:duration="200" />    
+    <item android:drawable="@drawable/furball_washing_9" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_10" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_11" android:duration="200" />
+    <item android:drawable="@drawable/furball_washing_12" android:duration="200" />
+</animation-list> 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list     
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/waveanim"
+    android:oneshot="true"
+    > 
+    <item android:drawable="@drawable/furball_thoughts_1" android:duration="500" />
+    <item android:drawable="@drawable/furball_thoughts_2" android:duration="500" />  
+    <item android:drawable="@drawable/furball_thoughts_3" android:duration="500" />
+    <item android:drawable="@drawable/furball_thoughts_food" android:duration="1000" /> 
+    <item android:drawable="@drawable/furball_looking_down" android:duration="350" />
+</animation-list> 

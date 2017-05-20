@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list     
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/waveanim"
+    android:oneshot="true"
+    >
+    <item android:drawable="@drawable/furball_looking_left" android:duration="300" />
+    <item android:drawable="@drawable/furball_looking_top" android:duration="300" />
+    <item android:drawable="@drawable/furball_looking_top_right" android:duration="1000" />
+    <item android:drawable="@drawable/furball_looking_right" android:duration="350" />
+    <item android:drawable="@drawable/furball_blink_7" android:duration="150" />
+    <item android:drawable="@drawable/furball_looking_top_left" android:duration="535" />
+    <item android:drawable="@drawable/furball_looking_top" android:duration="335" /> 
+        <item android:drawable="@drawable/furball_looking_down" android:duration="1300" /> 
+</animation-list> 
